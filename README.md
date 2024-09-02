@@ -4,7 +4,7 @@
 
 
 ## 🛠 Skills
-Java, C++, SQL, Python, Javascript, HTML, CSS...
+Java, C, Python...
 
 
 
